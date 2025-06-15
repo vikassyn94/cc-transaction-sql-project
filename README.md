@@ -43,9 +43,9 @@ credit-card-transaction-analysis/
 2. Open your PostgreSQL client (like pgAdmin or DBeaver)
 
 3. Execute:
-   - `schema/create_tables.sql` to create the database structure
-   - `schema/Credit card transactions - India - Simple.csv` to insert sample data into the tables
-   - Run queries in `/queries/tested_queries.sql` to generate KPIs
+- `schema/create_tables.sql` to create the database structure
+- `schema/Credit card transactions - India - Simple.csv` to insert sample data into the tables
+- Run queries in `/queries/tested_queries.sql` to generate KPIs
 
 ---
 
